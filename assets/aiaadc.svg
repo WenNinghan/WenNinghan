@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="我创建的 AIAADC 开源学习平台：24个公开仓库、16门课程、2个年级资源总仓。"><style>text{font-family:'Microsoft YaHei', 'PingFang SC', sans-serif}</style>
+<defs><clipPath id="orgRound"><rect x="1" y="1" width="1278" height="398" rx="30"/></clipPath></defs><rect x="1" y="1" width="1278" height="398" rx="30" fill="#fffaf0" stroke="#eee3c9" stroke-width="2"/>
+<circle cx="1180" cy="45" r="117" fill="#f9edc9" clip-path="url(#orgRound)"/><circle cx="1160" cy="36" r="7" fill="#d8b962"/>
+<text x="52" y="76" font-size="27" fill="#957632">我创建并持续建设的开源学习平台</text>
+<text x="49" y="148" font-size="59" font-weight="700" fill="#564526">AIAADC</text>
+<text x="52" y="201" font-size="27" fill="#766247">人工智能与自动化学院学业发展与支持中心</text>
+<path d="M54 239H1224" stroke="#e5d8b8" stroke-width="2"/>
+<text x="54" y="316" fill="#85683a" font-size="51" font-weight="700">24</text><text x="54" y="363" fill="#766247" font-size="25">个公开仓库</text><text x="477" y="316" fill="#85683a" font-size="51" font-weight="700">16</text><text x="477" y="363" fill="#766247" font-size="25">门课程资源</text><text x="901" y="316" fill="#85683a" font-size="51" font-weight="700">2</text><text x="901" y="363" fill="#766247" font-size="25">个年级资源总仓</text>
+<g transform="translate(1100 131) rotate(-10)"><rect x="-48" y="-26" width="95" height="70" rx="10" fill="#aecfb7"/><path d="M0-19V37M-35-6H-12M12-6H34M-35 9H-12M12 9H34" stroke="#54765e" stroke-width="3" stroke-linecap="round"/></g>
+</svg>

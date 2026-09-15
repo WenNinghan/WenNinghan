@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="你好，我是 WenNinghan。认真探索，也尽情创造。"><style>text{font-family:'Microsoft YaHei', 'PingFang SC', sans-serif}</style>
+<style>
+.float{animation:float 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.smile{animation:smile 4s ease-in-out infinite;transform-origin:1055px 156px}
+.plane{animation:orbit 10s linear infinite;transform-origin:1050px 260px}
+.spark{animation:spark 3s ease-in-out infinite;transform-origin:1202px 125px}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+@keyframes smile{0%,100%{transform:rotate(-9deg)}50%{transform:rotate(10deg)}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes spark{0%,100%{transform:scale(.78)}50%{transform:scale(1.13)}}
+@media(prefers-reduced-motion:reduce){.float,.smile,.plane,.spark{animation:none}}
+</style>
+<rect x="1" y="1" width="1278" height="518" rx="34" fill="#f4faf5" stroke="#dceadf" stroke-width="2"/>
+<path d="M886 520C774 396 844 223 1012 280S1242 392 1280 268V486Q1280 520 1246 520Z" fill="#e1efe2"/>
+<path d="M1150 1H1246Q1279 1 1279 34V180C1165 202 1105 105 1150 1" fill="#fff1cb"/>
+<circle cx="796" cy="86" r="7" fill="#eec270"/><circle cx="832" cy="449" r="9" fill="#c0b9e7"/>
+<text x="66" y="100" font-size="30" fill="#477668">你好，很高兴遇见你！</text>
+<text x="62" y="200" font-size="80" font-weight="700" fill="#23463b" letter-spacing="-2">WenNinghan</text>
+<path d="M70 222Q306 239 574 218" stroke="#f1be56" stroke-width="11" stroke-linecap="round" fill="none"/>
+<text x="66" y="293" font-size="38" font-weight="700" fill="#334b42">认真探索，也尽情创造。</text>
+<text x="66" y="349" font-size="26" fill="#527065">AI 研究 · 复杂网络 · 开源学习社区</text>
+<rect x="66" y="396" width="162" height="50" rx="25" fill="white" stroke="#cadfd1"/>
+<text x="147" y="429" text-anchor="middle" font-size="23" fill="#355b4c">华科在读</text>
+<rect x="242" y="396" width="238" height="50" rx="25" fill="#ede9f8"/>
+<text x="361" y="429" text-anchor="middle" font-size="23" fill="#63528e">AIAADC 创建者</text>
+<g fill="none" stroke="#a6c4b3" stroke-width="2"><ellipse cx="1050" cy="260" rx="185" ry="185" stroke-dasharray="8 11"/></g>
+<g class="float">
+<rect x="877" y="189" width="305" height="202" rx="22" fill="#cbdacf" opacity=".45"/>
+<rect x="867" y="175" width="305" height="202" rx="22" fill="white" stroke="#85ad9b" stroke-width="2.5"/>
+<path d="M867 225H1172" stroke="#dce9e0" stroke-width="2"/>
+<circle cx="891" cy="201" r="6" fill="#eec275"/><circle cx="913" cy="201" r="6" fill="#b8abdc"/><circle cx="935" cy="201" r="6" fill="#8cba9a"/>
+<path d="m924 266-26 24 26 24m142-48 26 24-26 24m-60-54-19 64" fill="none" stroke="#518773" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="936" y="342" width="161" height="9" rx="4.5" fill="#e2e9e2"/>
+</g>
+<g class="smile"><circle cx="1055" cy="156" r="60" fill="#f6cb69"/><ellipse cx="1037" cy="149" rx="4.5" ry="7" fill="#625134"/><ellipse cx="1073" cy="149" rx="4.5" ry="7" fill="#625134"/><path d="M1036 170Q1055 188 1074 170" fill="none" stroke="#625134" stroke-width="4" stroke-linecap="round"/></g>
+<g transform="rotate(-8 1079 368)"><rect x="1009" y="333" width="142" height="89" rx="15" fill="#dcd3f1" stroke="#b6a6d4" stroke-width="2"/><text x="1080" y="390" text-anchor="middle" font-size="28" font-weight="700" fill="#766098">idea!</text></g>
+<g class="spark" fill="#b6a6d9"><path d="M1202 99Q1206 121 1228 125Q1206 129 1202 151Q1198 129 1176 125Q1198 121 1202 99Z"/></g>
+<g class="plane"><path d="m1207 259 45-17-14 47-10-20Z" fill="#f19c78" stroke="#bd7454" stroke-width="2" stroke-linejoin="round"/><path d="m1228 269 24-27" stroke="#bd7454" stroke-width="2"/></g>
+</svg>

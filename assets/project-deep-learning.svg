@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="302" viewBox="0 0 610 302" role="img" aria-label="Deep-Learing：从理解模型到动手实现；记录学习过程与代码实践"><style>text{font-family:'Microsoft YaHei', 'PingFang SC', sans-serif}</style>
+<rect x="1" y="1" width="608" height="300" rx="24" fill="#fff5e3" stroke="#896b37" stroke-opacity=".15" stroke-width="2"/>
+<text x="32" y="51" font-size="23" fill="#896b37">深度学习 · 持续积累</text>
+<text x="30" y="110" font-size="43" font-weight="700" fill="#896b37">Deep-Learing</text>
+<g style="color:#896b37" transform="translate(483 27) scale(.85)" opacity=".65"><path d="m12 29 39-20 39 20-39 20ZM12 47l39 20 39-20M12 65l39 20 39-20" stroke="currentColor" stroke-width="4" fill="none" stroke-linejoin="round"/></g>
+<text x="32" y="171" font-size="31" fill="#485d54">从理解模型到动手实现</text>
+<text x="32" y="214" font-size="31" fill="#485d54">记录学习过程与代码实践</text>
+<text x="32" y="271" font-size="23" fill="#896b37">打开项目</text><path d="M142 263h34m-9-9 9 9-9 9" fill="none" stroke="#896b37" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

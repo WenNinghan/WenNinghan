@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="302" viewBox="0 0 610 302" role="img" aria-label="HEOA：人类进化优化算法；算法实现与实验复现"><style>text{font-family:'Microsoft YaHei', 'PingFang SC', sans-serif}</style>
+<rect x="1" y="1" width="608" height="300" rx="24" fill="#f2eefb" stroke="#705e99" stroke-opacity=".15" stroke-width="2"/>
+<text x="32" y="51" font-size="23" fill="#705e99">优化算法 · 复现研究</text>
+<text x="30" y="110" font-size="43" font-weight="700" fill="#705e99">HEOA</text>
+<g style="color:#705e99" transform="translate(483 27) scale(.85)" opacity=".65"><path d="M12 16V85H90M21 71Q39 70 48 39T86 18" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><circle cx="85" cy="19" r="7" fill="currentColor"/></g>
+<text x="32" y="171" font-size="31" fill="#485d54">人类进化优化算法</text>
+<text x="32" y="214" font-size="31" fill="#485d54">算法实现与实验复现</text>
+<text x="32" y="271" font-size="23" fill="#705e99">打开项目</text><path d="M142 263h34m-9-9 9 9-9 9" fill="none" stroke="#705e99" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
