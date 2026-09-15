@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="你好，我是 WenNinghan。认真探索，也尽情创造。" />
+<img src="./assets/header.svg?v=2" width="100%" alt="你好，我是 WenNinghan。认真探索，也尽情创造。" />
 
 ### 让好奇心变成作品，让知识更容易被找到。
 
@@ -14,7 +14,7 @@
 
 ## 🌱 我创建的 AIAADC
 
-<a href="https://github.com/AIAADC"><img src="./assets/aiaadc.svg" width="100%" alt="AIAADC 开源学习平台：24 个公开仓库，16 门课程，2 个年级资源总仓。" /></a>
+<a href="https://github.com/AIAADC"><img src="./assets/aiaadc.svg?v=2" width="100%" alt="AIAADC 开源学习平台：24 个公开仓库，16 门课程，2 个年级资源总仓。" /></a>
 
 我创建并持续建设 **AIAADC 的 GitHub 组织与开源资源体系**，把分散的课程资料、复习经验与同学作品，整理成更容易查找、使用和持续补充的学习平台。
 
@@ -82,12 +82,12 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/WenNinghan/DECAT"><img src="./assets/project-decat.svg" width="100%" alt="DECAT：双专家化学感知 Transformer；模型复现、部署与适用域分析" /></a></td>
-<td width="50%"><a href="https://github.com/WenNinghan/HEOA"><img src="./assets/project-heoa.svg" width="100%" alt="HEOA：人类进化优化算法；算法实现与实验复现" /></a></td>
+<td width="50%"><a href="https://github.com/WenNinghan/DECAT"><img src="./assets/project-decat.svg?v=2" width="100%" alt="DECAT：双专家化学感知 Transformer；模型复现、部署与适用域分析" /></a></td>
+<td width="50%"><a href="https://github.com/WenNinghan/HEOA"><img src="./assets/project-heoa.svg?v=2" width="100%" alt="HEOA：人类进化优化算法；算法实现与实验复现" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/WenNinghan/Deep-Learing"><img src="./assets/project-deep-learning.svg" width="100%" alt="Deep-Learing：从理解模型到动手实现；记录学习过程与代码实践" /></a></td>
-<td width="50%"><a href="https://github.com/WenNinghan/ComplexNetworks"><img src="./assets/project-complex-networks.svg" width="100%" alt="ComplexNetworks：复杂网络教材配套仓库的 Fork；学习网络结构、模型与分析方法" /></a></td>
+<td width="50%"><a href="https://github.com/WenNinghan/Deep-Learing"><img src="./assets/project-deep-learning.svg?v=2" width="100%" alt="Deep-Learing：从理解模型到动手实现；记录学习过程与代码实践" /></a></td>
+<td width="50%"><a href="https://github.com/WenNinghan/ComplexNetworks"><img src="./assets/project-complex-networks.svg?v=2" width="100%" alt="ComplexNetworks：复杂网络教材配套仓库的 Fork；学习网络结构、模型与分析方法" /></a></td>
 </tr>
 </table>
 
