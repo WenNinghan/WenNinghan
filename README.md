@@ -1,129 +1,128 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
+  <img alt="WenNinghan · AI for Science — 从科学问题出发，探索模型与发现。" src="./assets/hero-light.png" width="100%">
+</picture>
+
 <div align="center">
 
-<img src="./assets/header.svg?v=2" width="100%" alt="你好，我是 WenNinghan。认真探索，也尽情创造。" />
+### 你好，我是 WenNinghan
 
-### 让好奇心变成作品，让知识更容易被找到。
+**华中科技大学 · 人工智能方向学生 · AI4Science**
 
-华中科技大学在读。探索人工智能与复杂网络，也搭建学习平台、分享课程资料，偶尔创造几只桌面小猫。
+关注化学预测、复杂系统与科学问题中的优化方法。<br>把好奇心写进模型，把想法做成可以使用的工具。
 
-[我创建的 AIAADC](#aiaadc) · [研究与学习](#projects) · [我的两只小猫](#cats)
+[研究与项目](#selected-work) &nbsp; / &nbsp; [开源与共建](#open-learning) &nbsp; / &nbsp; [代码之外](#beyond-research)
 
 </div>
 
-<a id="aiaadc"></a>
+## 研究兴趣 · Research interests
 
-## 🌱 我创建的 AIAADC
+**AI for Chemistry** &nbsp; 分子表征、化学预测与模型适用域。<br>**Complex Systems** &nbsp; 网络结构、系统稳定性与临界转变。<br>**Scientific Computing** &nbsp; 优化算法、实验复现与科研工具。
 
-<a href="https://github.com/AIAADC"><img src="./assets/aiaadc.svg?v=2" width="100%" alt="AIAADC 开源学习平台：24 个公开仓库，16 门课程，2 个年级资源总仓。" /></a>
+<a id="selected-work"></a>
 
-我创建并持续建设 **AIAADC 的 GitHub 组织与开源资源体系**，把分散的课程资料、复习经验与同学作品，整理成更容易查找、使用和持续补充的学习平台。
+## 研究与项目 · Selected work
 
-从大一基础课到专业课程，从个人笔记到期中、期末分享会，再到课程资源网站和同学创意项目，希望这里能帮后来者少绕一点路。
+<a href="https://github.com/WenNinghan/DECAT">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/decat-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/decat-light.png">
+    <img alt="DECAT — 双专家化学感知 Transformer，模型复现、交互推理与适用域分析。点击查看项目。" src="./assets/decat-light.png" width="100%">
+  </picture>
+</a>
 
-| 📚 从课程开始 | 🛠️ 看看平台与共建 |
-| :--- | :--- |
-| [**大一课程资源总仓**](https://github.com/AIAADC/Resources-for-freshman-in-AIA) | [**课程资源网站 / PWA**](https://github.com/AIAADC/aiaadc-resource-site) |
-| [**大二课程资源总仓**](https://github.com/AIAADC/Resources-for-sophomore-in-AIA) | [**同学创意项目**](https://github.com/AIAADC/student-projects) |
+用**双专家化学感知 Transformer** 预测臭氧反应速率常数（logk），提供模型复现、交互推理与适用域分析。
+
+`Python` &nbsp; `Transformer` &nbsp; `AI for Chemistry`
+
+[**探索 DECAT →**](https://github.com/WenNinghan/DECAT)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 识页 Shiye
+
+本地 OCR、公式校对与 Word / Markdown / PDF 导出，把论文、讲义和截图变成可编辑文档。
+
+`Research tools` &nbsp; `OCR`
+
+[查看识页 →](https://github.com/WenNinghan/shiye)
+
+</td>
+<td width="50%" valign="top">
+
+### HEOA
+
+人类进化优化算法的实现与复现：三杆桁架约束优化、收敛分析与可行性检验。
+
+`Optimization` &nbsp; `Python`
+
+[查看算法实践 →](https://github.com/WenNinghan/HEOA)
+
+</td>
+</tr>
+</table>
+
+**持续学习** &nbsp; [Deep-Learing](https://github.com/WenNinghan/Deep-Learing) · 基于教材的深度学习实践 &nbsp; / &nbsp; [ComplexNetworks](https://github.com/WenNinghan/ComplexNetworks) · 复杂网络学习资源（Fork）
+
+<a id="open-learning"></a>
+
+## 开源与共建 · Open learning
+
+### AIAADC · 让知识更容易被找到
+
+我创建并持续建设 AIAADC 的开源学习资源体系，把课程资料、学习笔记、复习经验与同学作品连接起来。希望自己走过的路，也能成为后来者的起点。
+
+[**组织主页 ↗**](https://github.com/AIAADC) &nbsp; · &nbsp; [课程资源平台](https://github.com/AIAADC/aiaadc-resource-site)
+
+[大一资源](https://github.com/AIAADC/Resources-for-freshman-in-AIA) &nbsp; · &nbsp; [大二资源](https://github.com/AIAADC/Resources-for-sophomore-in-AIA) &nbsp; · &nbsp; [同学作品](https://github.com/AIAADC/student-projects)
 
 <details>
-<summary><strong>展开完整仓库地图 · 24 个公开仓库</strong></summary>
+<summary>展开课程与资源导航</summary>
 
-### 年级导航
+**数学与自然科学**
 
-- [大一课程资源总仓](https://github.com/AIAADC/Resources-for-freshman-in-AIA)
-- [大二课程资源总仓](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)
+[微积分](https://github.com/AIAADC/wjf) · [线性代数](https://github.com/AIAADC/linear-algebra) · [概率论与数理统计](https://github.com/AIAADC/Probability-and-Statistics) · [大学物理](https://github.com/AIAADC/Physics) · [离散数学](https://github.com/AIAADC/Discrete-Mathematics) · [复变函数与积分变换](https://github.com/AIAADC/AIAADC-Complex-Functions-and-Integral-Transforms) · [数值计算方法](https://github.com/AIAADC/Numerical-Methods)
 
-### 数学与自然科学
+**计算机与人工智能**
 
-- [微积分](https://github.com/AIAADC/wjf)
-- [线性代数](https://github.com/AIAADC/linear-algebra)
-- [概率论与数理统计](https://github.com/AIAADC/Probability-and-Statistics)
-- [大学物理](https://github.com/AIAADC/Physics)
-- [离散数学](https://github.com/AIAADC/Discrete-Mathematics)
-- [复变函数与积分变换](https://github.com/AIAADC/AIAADC-Complex-Functions-and-Integral-Transforms)
-- [数值计算方法](https://github.com/AIAADC/Numerical-Methods)
+[C 语言程序设计](https://github.com/AIAADC/C-Programming-Language) · [数据结构](https://github.com/AIAADC/Data-Structure) · [数据科学基础](https://github.com/AIAADC/Foundation-of-data-science) · [人工智能导论](https://github.com/AIAADC/Introduction-to-Artificial-Intelligence)
 
-### 计算机与人工智能
+**电子、信号与控制**
 
-- [C 语言程序设计](https://github.com/AIAADC/C-Programming-Language)
-- [数据结构](https://github.com/AIAADC/Data-Structure)
-- [数据科学基础](https://github.com/AIAADC/Foundation-of-data-science)
-- [人工智能导论](https://github.com/AIAADC/Introduction-to-Artificial-Intelligence)
+[电路理论](https://github.com/AIAADC/Circuit-Theory) · [模拟电子技术](https://github.com/AIAADC/Analog-Electronics-Technology) · [数字电路](https://github.com/AIAADC/Digital-circuit) · [自动控制原理](https://github.com/AIAADC/Principles-of-Automatic-Control) · [信号与系统引论](https://github.com/AIAADC/Introduction-to-Signals-and-Systems)
 
-### 电子、信号与控制
+**分享与共建**
 
-- [电路理论](https://github.com/AIAADC/Circuit-Theory)
-- [模拟电子技术](https://github.com/AIAADC/Analog-Electronics-Technology)
-- [数字电路](https://github.com/AIAADC/Digital-circuit)
-- [自动控制原理](https://github.com/AIAADC/Principles-of-Automatic-Control)
-- [信号与系统引论](https://github.com/AIAADC/Introduction-to-Signals-and-Systems)
-
-### 学习分享与同学作品
-
-- [个人笔记分享](https://github.com/AIAADC/Note-Sharing)
-- [期中分享会](https://github.com/AIAADC/Midterm-Presentation)
-- [期末分享会](https://github.com/AIAADC/Final-Exam-Presentation)
-- [同学创意项目](https://github.com/AIAADC/student-projects)
-
-### 平台与组织
-
-- [课程资源网站 / PWA](https://github.com/AIAADC/aiaadc-resource-site)
-- [组织主页与说明](https://github.com/AIAADC/.github)
-
-仓库数量为 2026 年 9 月 15 日公开信息快照。
+[个人笔记](https://github.com/AIAADC/Note-Sharing) · [期中分享会](https://github.com/AIAADC/Midterm-Presentation) · [期末分享会](https://github.com/AIAADC/Final-Exam-Presentation) · [组织说明](https://github.com/AIAADC/.github)
 
 </details>
 
-<a id="projects"></a>
+<a id="beyond-research"></a>
 
-## 🔬 研究、实现与持续学习
+## 代码之外 · A little joy
 
-我关注 AI 在具体研究问题中的应用，也通过算法复现和课程实践加深理解。
+认真探索，也给想象力留一点位置。两只我制作的桌面小猫，陪伴写代码的日常。
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/WenNinghan/DECAT"><img src="./assets/project-decat.svg?v=2" width="100%" alt="DECAT：双专家化学感知 Transformer；模型复现、部署与适用域分析" /></a></td>
-<td width="50%"><a href="https://github.com/WenNinghan/HEOA"><img src="./assets/project-heoa.svg?v=2" width="100%" alt="HEOA：人类进化优化算法；算法实现与实验复现" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/WenNinghan/Deep-Learing"><img src="./assets/project-deep-learning.svg?v=2" width="100%" alt="Deep-Learing：从理解模型到动手实现；记录学习过程与代码实践" /></a></td>
-<td width="50%"><a href="https://github.com/WenNinghan/ComplexNetworks"><img src="./assets/project-complex-networks.svg?v=2" width="100%" alt="ComplexNetworks：复杂网络教材配套仓库的 Fork；学习网络结构、模型与分析方法" /></a></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/WenNinghan/yuexinmiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/yuexinmiao-codex-pet/main/previews/animations/waving.gif" width="100" alt="月薪喵挥手动画，点击查看项目"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/WenNinghan/daimaobatiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/daimaobatiao-codex-pet/main/previews/animations/jumping.gif" width="100" alt="呆猫八条跳跃动画，点击查看项目"></a>
 
-另外还有 [**HRT_ 阶段性任务仓库**](https://github.com/WenNinghan/HRT_-)（目前待补充）。
+[月薪喵](https://github.com/WenNinghan/yuexinmiao-codex-pet) &nbsp; &nbsp; · &nbsp; &nbsp; [呆猫八条](https://github.com/WenNinghan/daimaobatiao-codex-pet)
 
-<a id="cats"></a>
-
-## 🐾 认真写代码，也认真养电子猫
-
-把一点想象力做成可以陪伴自己的小作品。两只猫都来自我制作的 Codex App 自定义宠物项目。
-
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>月薪喵</h3>
-<a href="https://github.com/WenNinghan/yuexinmiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/yuexinmiao-codex-pet/main/previews/animations/waving.gif" width="190" alt="月薪喵挥手动画" /></a>
-<p>给写代码的日子，加一点陪伴。</p>
-<a href="https://github.com/WenNinghan/yuexinmiao-codex-pet">看看月薪喵 →</a>
-</td>
-<td width="50%" align="center">
-<h3>呆猫八条</h3>
-<a href="https://github.com/WenNinghan/daimaobatiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/daimaobatiao-codex-pet/main/previews/animations/jumping.gif" width="190" alt="呆猫八条跳跃动画" /></a>
-<p>一只灰白小猫，也可以有很多表情。</p>
-<a href="https://github.com/WenNinghan/daimaobatiao-codex-pet">看看呆猫八条 →</a>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-## 保持好奇，慢慢把想法变成真的。
+**以好奇为起点，以可复现为习惯。**
 
-欢迎交流 AI、复杂网络、学习资源，以及有趣的小作品。
+欢迎交流 AI4Science、复杂系统、科研工具与开源学习。
 
-[我的全部公开仓库](https://github.com/WenNinghan?tab=repositories) · [AIAADC 开源学习平台](https://github.com/AIAADC)
+[浏览全部项目 ↗](https://github.com/WenNinghan?tab=repositories) &nbsp; · &nbsp; [一起建设 AIAADC ↗](https://github.com/AIAADC)
 
 </div>
