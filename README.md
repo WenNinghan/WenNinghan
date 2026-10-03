@@ -1,12 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
-  <img alt="WenNinghan · AI for Science — 从科学问题出发，探索模型与发现。" src="./assets/hero-light.png" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/lab/hero-still-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lab/hero-dark.svg">
+  <img src="./assets/lab/hero-light.svg" width="100%" alt="WenNinghan · AI for Science。蓝紫色立体分子网络缓慢旋转，轨道光点与数据流持续运动。">
 </picture>
 
 <div align="center">
-
-### 你好，我是 WenNinghan
 
 **华中科技大学 · 人工智能方向学生 · AI4Science**
 
@@ -16,20 +14,20 @@
 
 </div>
 
-## 研究兴趣 · Research interests
+### 研究兴趣
 
 **AI for Chemistry** &nbsp; 分子表征、化学预测与模型适用域。<br>**Complex Systems** &nbsp; 网络结构、系统稳定性与临界转变。<br>**Scientific Computing** &nbsp; 优化算法、实验复现与科研工具。
 
 <a id="selected-work"></a>
 
-## 研究与项目 · Selected work
+## 精选项目 · Selected work
 
 <a href="https://github.com/WenNinghan/DECAT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/decat-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/decat-light.png">
-    <img alt="DECAT — 双专家化学感知 Transformer，模型复现、交互推理与适用域分析。点击查看项目。" src="./assets/decat-light.png" width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/lab/decat-still-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lab/decat-dark.svg">
+  <img src="./assets/lab/decat-light.svg" width="100%" alt="DECAT：双专家化学感知 Transformer。点击查看研究项目。">
+</picture>
 </a>
 
 用**双专家化学感知 Transformer** 预测臭氧反应速率常数（logk），提供模型复现、交互推理与适用域分析。
@@ -38,32 +36,33 @@
 
 [**探索 DECAT →**](https://github.com/WenNinghan/DECAT)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 识页 Shiye
+<a href="https://github.com/WenNinghan/shiye">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/lab/shiye-still-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lab/shiye-dark.svg">
+  <img src="./assets/lab/shiye-light.svg" width="100%" alt="识页 Shiye：科研与学习文档工具。点击查看项目。">
+</picture>
+</a>
 
-本地 OCR、公式校对与 Word / Markdown / PDF 导出，把论文、讲义和截图变成可编辑文档。
+**[识页 Shiye](https://github.com/WenNinghan/shiye)** · 本地 OCR、公式校对与 Word / Markdown / PDF 导出，把论文、讲义和截图变成可编辑文档。
 
-`Research tools` &nbsp; `OCR`
+`Research tools` &nbsp; `OCR` &nbsp; [查看识页 →](https://github.com/WenNinghan/shiye)
 
-[查看识页 →](https://github.com/WenNinghan/shiye)
+<br>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/WenNinghan/HEOA">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/lab/heoa-still-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lab/heoa-dark.svg">
+  <img src="./assets/lab/heoa-light.svg" width="100%" alt="HEOA：人类进化优化算法的实现与复现。点击查看项目。">
+</picture>
+</a>
 
-### HEOA
+**[HEOA](https://github.com/WenNinghan/HEOA)** · 人类进化优化算法的实现与复现：三杆桁架约束优化、收敛分析与可行性检验。
 
-人类进化优化算法的实现与复现：三杆桁架约束优化、收敛分析与可行性检验。
-
-`Optimization` &nbsp; `Python`
-
-[查看算法实践 →](https://github.com/WenNinghan/HEOA)
-
-</td>
-</tr>
-</table>
+`Optimization` &nbsp; `Python` &nbsp; [查看算法实践 →](https://github.com/WenNinghan/HEOA)
 
 **持续学习** &nbsp; [Deep-Learing](https://github.com/WenNinghan/Deep-Learing) · 基于教材的深度学习实践 &nbsp; / &nbsp; [ComplexNetworks](https://github.com/WenNinghan/ComplexNetworks) · 复杂网络学习资源（Fork）
 
@@ -71,7 +70,15 @@
 
 ## 开源与共建 · Open learning
 
-### AIAADC · 让知识更容易被找到
+<a href="https://github.com/AIAADC">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/lab/aiaadc-still-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lab/aiaadc-dark.svg">
+  <img src="./assets/lab/aiaadc-light.svg" width="100%" alt="AIAADC · 让知识更容易被找到。开源学习资源与共建。">
+</picture>
+</a>
+
+**让知识更容易被找到。**
 
 我创建并持续建设 AIAADC 的开源学习资源体系，把课程资料、学习笔记、复习经验与同学作品连接起来。希望自己走过的路，也能成为后来者的起点。
 
