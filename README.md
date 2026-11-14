@@ -1,4 +1,4 @@
-<img src="./assets/profile/premium-header.webp" width="100%" alt="WenNinghan · AI4SCI · Complex Networks。深紫色背景上的玻璃质感立体网络与暖金色细线。">
+<img src="./assets/profile/header-user-final.webp" width="100%" alt="WenNinghan · AI4SCI · Complex Networks。深紫色背景上的玻璃质感立体网络与暖金色细线。">
 
 <p align="center">
 <strong>华中科技大学 · 人工智能与自动化学院本科生</strong><br>
