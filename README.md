@@ -1,6 +1,8 @@
 ![WenNinghan — AI for Science 与科研工具](./assets/profile/header.png)
 
-华中科技大学人工智能方向学生，关注化学预测、复杂系统与科研工具。
+### About me
+
+华中科技大学人工智能方向学生，主要关注 **AI4SCI** 与 **复杂网络（Complex Networks）**。
 
 ### 做过的一些项目
 
@@ -12,4 +14,4 @@
 
 ---
 
-[个人网站 · WinnieHoney](https://wenninghan-personal.mccleerpavis667.chatgpt.site)
+[个人网站 · WinnieHoney](https://winniehoney.win/)
