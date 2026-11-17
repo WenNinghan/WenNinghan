@@ -31,12 +31,14 @@
 
 <p align="center">
   <a href="https://github.com/WenNinghan/OmniHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/omniharness-dark.svg"><img src="./assets/profile/cards/omniharness-light.svg" width="49%" alt="OmniHarness"></picture></a>&nbsp;
-  <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="49%" alt="识页 Shiye"></picture></a>
+  <a href="https://github.com/WenNinghan/ChemLit-Kinetics-Miner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chemlit-dark.svg"><img src="./assets/profile/cards/chemlit-light.svg" width="49%" alt="ChemLit-Kinetics-Miner"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>&nbsp;
-  <a href="https://github.com/WenNinghan/Toccata-Windows"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/toccata-dark.svg"><img src="./assets/profile/cards/toccata-light.svg" width="49%" alt="Toccata-Windows"></picture></a>
+  <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="49%" alt="识页 Shiye"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>
 </p>
+
+> <sub>⌨️ 桌面效率移植作品：<a href="https://github.com/WenNinghan/Toccata-Windows"><b>Toccata-Windows</b></a>（极简任务流管理与本地键盘活动统计，基于 <a href="https://github.com/KMnO4-zx/Toccata">KMnO4-zx/Toccata</a> 的 Windows 移植预览）。</sub>
 
 ### 🐾 Play & Create · 桌面宠物小舞台与互动创意
 

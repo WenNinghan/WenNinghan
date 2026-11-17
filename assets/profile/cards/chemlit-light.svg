@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148">
+  <rect x="0.75" y="0.75" width="418.5" height="146.5" rx="11" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.2"/>
+  <text x="18" y="31" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="15" font-weight="700">ChemLit-Kinetics-Miner</text>
+  <rect x="303" y="15.5" width="99" height="21" rx="5.5" fill="#d1fae5"/>
+  <text x="352.5" y="29.8" text-anchor="middle" fill="#047857" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600">AI4Sci · MCP</text>
+  <text x="18" y="60" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">面向环境氧化动力学文献的可溯源数据挖掘与物理验真流水线：</text>
+  <text x="18" y="80" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">融合 RDKit 结构价态校验、Smoluchowski 扩散极限、pKa 电离</text>
+  <text x="18" y="100" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">形态分布方程与双角色交叉复核（F1 97.5%，原生支持 MCP）。</text>
+  <line x1="18" y1="115" x2="402" y2="115" stroke="#dfdcea" stroke-width="0.8" stroke-opacity="0.7"/>
+  <text x="18" y="133.5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Microsoft YaHei UI', monospace" font-size="11.2">
+    <tspan fill="#6d28d9" font-weight="600">[Kinetics Miner &amp; MCP]</tspan>
+    <tspan fill="#64748b">  ·  RDKit + Physics Audit · F1 97.5%</tspan>
+  </text>
+</svg>
