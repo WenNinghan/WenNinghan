@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148">
+  <rect x="0.75" y="0.75" width="418.5" height="146.5" rx="11" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.2"/>
+  <text x="18" y="31" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="15" font-weight="700">识页 Shiye</text>
+  <rect x="296" y="15.5" width="106" height="21" rx="5.5" fill="#fef3c7"/>
+  <text x="349.0" y="29.8" text-anchor="middle" fill="#b45309" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600">OCR · Formula</text>
+  <text x="18" y="60" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">本地优先的学术文档 OCR 与可视化公式校对桌面工具：</text>
+  <text x="18" y="80" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">支持复杂版面识别、数学公式双栏实时渲染修正，以及一键导出</text>
+  <text x="18" y="100" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">高保真 Word / Markdown / PDF 结构化文档。</text>
+  <line x1="18" y1="115" x2="402" y2="115" stroke="#dfdcea" stroke-width="0.8" stroke-opacity="0.7"/>
+  <text x="18" y="133.5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Microsoft YaHei UI', monospace" font-size="11.2">
+    <tspan fill="#6d28d9" font-weight="600">[Visual Formula OCR]</tspan>
+    <tspan fill="#64748b">  ·  Word / MD / PDF · Local-First</tspan>
+  </text>
+</svg>

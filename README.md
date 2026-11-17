@@ -1,48 +1,67 @@
-<img src="./assets/profile/header-winniehoney.webp" width="100%" alt="WinnieHoney · AI4SCI · Complex Networks。深紫色背景上的玻璃质感立体网络与暖金色细线。">
-
 <p align="center">
-<strong>华中科技大学 · 人工智能与自动化学院本科生</strong><br>
-关注 AI4SCI 与复杂网络，围绕环境反应动力学建模、复杂系统与多目标优化开展研究。
+  <img src="./assets/profile/header-winniehoney-rounded.webp" width="100%" alt="WinnieHoney · AI4SCI · Complex Networks">
 </p>
 
 <p align="center">
-<a href="https://winniehoney.win/">个人网站 · WinnieHoney</a> &nbsp; · &nbsp;
-<a href="https://github.com/WenNinghan?tab=repositories">全部仓库</a> &nbsp; · &nbsp;
-<a href="https://github.com/AIAADC">AIAADC</a>
+  <strong>华中科技大学 · 人工智能与自动化学院本科生 (HUST AIA)</strong><br>
+  <sub>关注 AI4SCI 与复杂网络，围绕环境反应动力学建模、复杂系统韧性与控制、多目标优化及可溯源 Agent 工具开展研究。</sub>
 </p>
-
-## Research & learning · 研究与学习
-
-| 项目 | 内容 |
-| --- | --- |
-| **[DECAT](https://github.com/WenNinghan/DECAT)** | 化学感知双专家模型，预测臭氧–污染物反应速率；提供代码、数据与在线推理。 |
-| **[NetControl-Pinning-Lab](https://github.com/WenNinghan/NetControl-Pinning-Lab)** | 复杂网络结构可控性（最大二部匹配）、子模格拉姆执行器优选与可微图神经网络牵制控制（Pinning Control）。 |
-| **[HEOA](https://github.com/WenNinghan/HEOA)** | 人类进化优化算法的论文阅读与复现，包含三杆桁架约束优化、收敛与可行性分析。 |
-| **[复杂网络](https://github.com/WenNinghan/ComplexNetworks)** | 复杂网络理论、算法与学习资料；Fork 自 [XL-lab-bigdata/ComplexNetworks](https://github.com/XL-lab-bigdata/ComplexNetworks)。 |
-| **[深度学习实践](https://github.com/WenNinghan/Deep-Learning)** | 基于 NumPy 从零实现计算图反向传播、CNN、BatchNorm 与优化器收敛对比可视化。 |
-
-## Tools · 学习与效率工具
-
-| 项目 | 内容 |
-| --- | --- |
-| **[OmniHarness](https://github.com/WenNinghan/OmniHarness)** | 本地优先的多 Agent 协同工作台，支持自有模型接入、受控沙箱执行、上下文管理与全流程追溯。 |
-| **[群迹 Local Chat Insights](https://github.com/WenNinghan/local-chat-insights)** | 本地群聊、成员与活动分析工作台，提供证据可溯源的统计洞察与可复用 Codex Skill。 |
-| **[识页 Shiye](https://github.com/WenNinghan/shiye)** | 本地 OCR、可视化公式校对与 Word / Markdown / PDF 导出；Windows 预发布版。 |
-| **[Toccata-Windows](https://github.com/WenNinghan/Toccata-Windows)** | 任务管理与本地键盘活动统计；[KMnO4-zx 的 macOS 原作](https://github.com/KMnO4-zx/Toccata)的非官方 Windows 移植。 |
-
-## Play & create · 一些有趣的作品
-
-- **[麦门宇宙](https://github.com/WenNinghan/mcmultiverse)** · 基于真实菜单与报价查询的非官方互动创意作品，串联盲选、猜价与 A/B 取舍。
-- **[月薪喵](https://github.com/WenNinghan/yuexinmiao-codex-pet)** · Codex 桌面宠物，包含动画、安装包、预览与制作资料。
-- **[呆猫八条](https://github.com/WenNinghan/daimaobatiao-codex-pet)** · 灰白贴纸风格的 Codex 桌面宠物，包含动画、安装包与制作资料。
 
 <p align="center">
-<a href="https://github.com/WenNinghan/yuexinmiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/yuexinmiao-codex-pet/main/previews/animations/waving.gif" width="88" alt="月薪喵挥手动画"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://github.com/WenNinghan/daimaobatiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/daimaobatiao-codex-pet/main/previews/animations/jumping.gif" width="88" alt="呆猫八条跳跃动画"></a>
+  <a href="https://winniehoney.win/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/pills/site-dark.svg"><img src="./assets/profile/pills/site-light.svg" height="28" alt="个人网站 · winniehoney.win"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/DECAT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/pills/decat-dark.svg"><img src="./assets/profile/pills/decat-light.svg" height="28" alt="DECAT · Co-1st Author"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/pills/repos-dark.svg"><img src="./assets/profile/pills/repos-light.svg" height="28" alt="全部公开仓库"></picture></a>&nbsp;
+  <a href="https://github.com/AIAADC"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/pills/aiaadc-dark.svg"><img src="./assets/profile/pills/aiaadc-light.svg" height="28" alt="HUST AIAADC"></picture></a>
 </p>
 
-## AIAADC · 开源共建
+### 🔬 Research & Core Algorithms · 代表性科研与底层算法
+
+<p align="center">
+  <a href="https://github.com/WenNinghan/DECAT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/decat-dark.svg"><img src="./assets/profile/cards/decat-light.svg" width="49%" alt="DECAT"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/NetControl-Pinning-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/netcontrol-dark.svg"><img src="./assets/profile/cards/netcontrol-light.svg" width="49%" alt="NetControl-Pinning-Lab"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/WenNinghan/HEOA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/heoa-dark.svg"><img src="./assets/profile/cards/heoa-light.svg" width="49%" alt="HEOA"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/Deep-Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/deeplearning-dark.svg"><img src="./assets/profile/cards/deeplearning-light.svg" width="49%" alt="Deep-Learning"></picture></a>
+</p>
+
+> <sub>📖 延伸理论学习参考：<a href="https://github.com/WenNinghan/ComplexNetworks"><b>ComplexNetworks</b></a>（复杂网络理论、算法与高阶网络教学代码库，Fork 自 <a href="https://github.com/XL-lab-bigdata/ComplexNetworks">XL-lab-bigdata/ComplexNetworks</a>）。</sub>
+
+### 🛠️ Verifiable Agents & Local-First Tooling · 科研与效率工具链
+
+<p align="center">
+  <a href="https://github.com/WenNinghan/OmniHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/omniharness-dark.svg"><img src="./assets/profile/cards/omniharness-light.svg" width="49%" alt="OmniHarness"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="49%" alt="识页 Shiye"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/Toccata-Windows"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/toccata-dark.svg"><img src="./assets/profile/cards/toccata-light.svg" width="49%" alt="Toccata-Windows"></picture></a>
+</p>
+
+### 🐾 Play & Create · 桌面宠物小舞台与互动创意
+
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <br>
+      <a href="https://github.com/WenNinghan/yuexinmiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/yuexinmiao-codex-pet/main/previews/animations/waving.gif" width="84" alt="月薪喵挥手动画"></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/WenNinghan/daimaobatiao-codex-pet"><img src="https://raw.githubusercontent.com/WenNinghan/daimaobatiao-codex-pet/main/previews/animations/jumping.gif" width="84" alt="呆猫八条跳跃动画"></a>
+      <br><br>
+      <sub><a href="https://github.com/WenNinghan/yuexinmiao-codex-pet"><b>月薪喵 · Waving</b></a> &nbsp;｜&nbsp; <a href="https://github.com/WenNinghan/daimaobatiao-codex-pet"><b>呆猫八条 · Jumping</b></a></sub>
+      <br><br>
+    </td>
+    <td width="64%" valign="middle">
+      ✨ <b><a href="https://github.com/WenNinghan/yuexinmiao-codex-pet">月薪喵 (Yuexinmiao)</a></b> · 陪伴写代码的 Codex 桌面宠物，内置挥手、小憩等多状态帧动画、安装包与完整制作资料。<br><br>
+      🐾 <b><a href="https://github.com/WenNinghan/daimaobatiao-codex-pet">呆猫八条 (Daimaobatiao)</a></b> · 灰白手绘贴纸风格的 Codex 桌面宠物，轻巧呆萌，支持桌面互动跳跃。<br><br>
+      🍔 <b><a href="https://github.com/WenNinghan/mcmultiverse">麦门宇宙 (McMultiverse)</a></b> · 基于真实菜单与报价查询的零依赖互动创意作品，串联盲选、猜价与 A/B 趣味取舍。
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📚 HUST AIAADC · 华中科大人工智能与自动化学院开源课程共建（点击展开 24 门核心课程与资料导航）</b></summary>
+<br>
 
 参与建设学院的课程资料与学习资源，把课件、笔记、复习经验和同学作品整理成更容易找到的入口。
 
@@ -57,15 +76,12 @@
 
 **一起分享：** [笔记共享](https://github.com/AIAADC/Note-Sharing) · [期中分享会](https://github.com/AIAADC/Midterm-Presentation) · [期末分享会](https://github.com/AIAADC/Final-Exam-Presentation) · [同学项目](https://github.com/AIAADC/student-projects) · [组织介绍](https://github.com/AIAADC/.github)
 
-课程资料由老师、学长学姐和同学共同积累，各仓库保留相应来源与署名。
-
-<details>
-<summary>其他仓库 · 主页源文件</summary>
-
-- [个人主页源文件](https://github.com/WenNinghan/WenNinghan)：本页 README 与视觉素材。
+<sub>课程资料由老师、学长学姐和同学共同积累，各仓库保留相应来源与署名。 · <a href="https://github.com/WenNinghan/WenNinghan">个人主页源文件</a></sub>
 
 </details>
 
 ---
 
-欢迎交流 **AI4SCI、复杂网络、科研工具与开源学习**。 &nbsp; [winniehoney.win](https://winniehoney.win/)
+<p align="center">
+  <sub>欢迎交流 <b>AI4SCI、复杂网络、科研工具与开源学习</b> ✨ &nbsp;·&nbsp; <a href="https://winniehoney.win/">winniehoney.win</a></sub>
+</p>
