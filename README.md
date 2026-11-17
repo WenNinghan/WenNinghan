@@ -38,7 +38,7 @@
   <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>
 </p>
 
-> <sub>⌨️ 桌面效率移植作品：<a href="https://github.com/WenNinghan/Toccata-Windows"><b>Toccata-Windows</b></a>（极简任务流管理与本地键盘活动统计，基于 <a href="https://github.com/KMnO4-zx/Toccata">KMnO4-zx/Toccata</a> 的 Windows 移植预览）。</sub>
+> <sub>⚡ 延伸基准与桌面移植：<a href="https://github.com/WenNinghan/CrossVerify-Bench"><b>CrossVerify-Bench</b></a>（多 Agent 交叉复核马尔可夫收益边界与 Token–准确率帕累托路由评测） · <a href="https://github.com/WenNinghan/Toccata-Windows"><b>Toccata-Windows</b></a>（极简任务流管理与本地键盘统计，移植自 <a href="https://github.com/KMnO4-zx/Toccata">KMnO4-zx/Toccata</a>）。</sub>
 
 ### 🐾 Play & Create · 桌面宠物小舞台与互动创意
 
