@@ -18,12 +18,14 @@
 | **[DECAT](https://github.com/WenNinghan/DECAT)** | 化学感知双专家模型，预测臭氧–污染物反应速率；提供代码、数据与在线推理。 |
 | **[HEOA](https://github.com/WenNinghan/HEOA)** | 人类进化优化算法的论文阅读与复现，包含三杆桁架约束优化、收敛与可行性分析。 |
 | **[复杂网络](https://github.com/WenNinghan/ComplexNetworks)** | 复杂网络理论、算法与学习资料；Fork 自 [XL-lab-bigdata/ComplexNetworks](https://github.com/XL-lab-bigdata/ComplexNetworks)。 |
-| **[深度学习实践](https://github.com/WenNinghan/Deep-Learing)** | 基于《深度学习入门》的章节代码学习与实验，包含优化器对比和训练可视化。 |
+| **[深度学习实践](https://github.com/WenNinghan/Deep-Learning)** | 基于 NumPy 从零实现计算图反向传播、CNN、BatchNorm 与优化器收敛对比可视化。 |
 
 ## Tools · 学习与效率工具
 
 | 项目 | 内容 |
 | --- | --- |
+| **[OmniHarness](https://github.com/WenNinghan/OmniHarness)** | 本地优先的多 Agent 协同工作台，支持自有模型接入、受控沙箱执行、上下文管理与全流程追溯。 |
+| **[群迹 Local Chat Insights](https://github.com/WenNinghan/local-chat-insights)** | 本地群聊、成员与活动分析工作台，提供证据可溯源的统计洞察与可复用 Codex Skill。 |
 | **[识页 Shiye](https://github.com/WenNinghan/shiye)** | 本地 OCR、可视化公式校对与 Word / Markdown / PDF 导出；Windows 预发布版。 |
 | **[Toccata-Windows](https://github.com/WenNinghan/Toccata-Windows)** | 任务管理与本地键盘活动统计；[KMnO4-zx 的 macOS 原作](https://github.com/KMnO4-zx/Toccata)的非官方 Windows 移植。 |
 
@@ -57,9 +59,8 @@
 课程资料由老师、学长学姐和同学共同积累，各仓库保留相应来源与署名。
 
 <details>
-<summary>其他仓库 · 阶段任务与主页源文件</summary>
+<summary>其他仓库 · 主页源文件</summary>
 
-- [HRT 阶段任务入口](https://github.com/WenNinghan/HRT_-)：当前为空仓库。
 - [个人主页源文件](https://github.com/WenNinghan/WenNinghan)：本页 README 与视觉素材。
 
 </details>
