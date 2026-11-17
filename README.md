@@ -16,6 +16,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | **[DECAT](https://github.com/WenNinghan/DECAT)** | 化学感知双专家模型，预测臭氧–污染物反应速率；提供代码、数据与在线推理。 |
+| **[NetControl-Pinning-Lab](https://github.com/WenNinghan/NetControl-Pinning-Lab)** | 复杂网络结构可控性（最大二部匹配）、子模格拉姆执行器优选与可微图神经网络牵制控制（Pinning Control）。 |
 | **[HEOA](https://github.com/WenNinghan/HEOA)** | 人类进化优化算法的论文阅读与复现，包含三杆桁架约束优化、收敛与可行性分析。 |
 | **[复杂网络](https://github.com/WenNinghan/ComplexNetworks)** | 复杂网络理论、算法与学习资料；Fork 自 [XL-lab-bigdata/ComplexNetworks](https://github.com/XL-lab-bigdata/ComplexNetworks)。 |
 | **[深度学习实践](https://github.com/WenNinghan/Deep-Learning)** | 基于 NumPy 从零实现计算图反向传播、CNN、BatchNorm 与优化器收敛对比可视化。 |
