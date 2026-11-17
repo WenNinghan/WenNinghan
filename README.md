@@ -31,14 +31,16 @@
 
 <p align="center">
   <a href="https://github.com/WenNinghan/OmniHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/omniharness-dark.svg"><img src="./assets/profile/cards/omniharness-light.svg" width="49%" alt="OmniHarness"></picture></a>&nbsp;
-  <a href="https://github.com/WenNinghan/ChemLit-Kinetics-Miner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chemlit-dark.svg"><img src="./assets/profile/cards/chemlit-light.svg" width="49%" alt="ChemLit-Kinetics-Miner"></picture></a>
+  <a href="https://github.com/WenNinghan/CrossVerify-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/crossverify-dark.svg"><img src="./assets/profile/cards/crossverify-light.svg" width="49%" alt="CrossVerify-Bench"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="49%" alt="识页 Shiye"></picture></a>&nbsp;
-  <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>
+  <a href="https://github.com/WenNinghan/ChemLit-Kinetics-Miner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chemlit-dark.svg"><img src="./assets/profile/cards/chemlit-light.svg" width="49%" alt="ChemLit-Kinetics-Miner"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="49%" alt="识页 Shiye"></picture></a>
 </p>
-
-> <sub>⚡ 延伸基准与桌面移植：<a href="https://github.com/WenNinghan/CrossVerify-Bench"><b>CrossVerify-Bench</b></a>（多 Agent 交叉复核马尔可夫收益边界与 Token–准确率帕累托路由评测） · <a href="https://github.com/WenNinghan/Toccata-Windows"><b>Toccata-Windows</b></a>（极简任务流管理与本地键盘统计，移植自 <a href="https://github.com/KMnO4-zx/Toccata">KMnO4-zx/Toccata</a>）。</sub>
+<p align="center">
+  <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="49%" alt="群迹 Local Chat Insights"></picture></a>&nbsp;
+  <a href="https://github.com/WenNinghan/Toccata-Windows"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/toccata-dark.svg"><img src="./assets/profile/cards/toccata-light.svg" width="49%" alt="Toccata-Windows"></picture></a>
+</p>
 
 ### 🐾 Play & Create · 桌面宠物小舞台与互动创意
 

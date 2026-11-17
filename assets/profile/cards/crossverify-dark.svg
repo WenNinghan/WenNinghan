@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148">
+  <rect x="0.75" y="0.75" width="418.5" height="146.5" rx="11" fill="#141824" stroke="#2e3446" stroke-width="1.2"/>
+  <text x="18" y="31" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="15" font-weight="700">CrossVerify-Bench</text>
+  <rect x="282" y="15.5" width="120" height="21" rx="5.5" fill="#17253e"/>
+  <text x="342.0" y="29.8" text-anchor="middle" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600">Markov · Pareto</text>
+  <text x="18" y="60" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">多智能体交叉复核马尔可夫理论与异构路由帕累托评测基准：</text>
+  <text x="18" y="80" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">严格推导弱验证器拉低强模型的临界相变边界，设计零神谕自适应</text>
+  <text x="18" y="100" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">路由器，在同等准确率下削减 52%–70% Token 成本。</text>
+  <line x1="18" y1="115" x2="402" y2="115" stroke="#2e3446" stroke-width="0.8" stroke-opacity="0.7"/>
+  <text x="18" y="133.5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Microsoft YaHei UI', monospace" font-size="11.2">
+    <tspan fill="#c084fc" font-weight="600">[Markov Harm Theorem]</tspan>
+    <tspan fill="#8b949e">  ·  28 Configs · 52%–70% Token Saved</tspan>
+  </text>
+</svg>
