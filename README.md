@@ -16,11 +16,11 @@
 
 ### 重点实验 · 可复现的项目
 
-<p align="center">
-  <a href="https://github.com/WenNinghan/EvoOpt-Surrogate-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/evoopt-dark.svg"><img src="./assets/profile/cards/evoopt-light.svg" width="412" alt="EvoOpt-Surrogate-Bench"></picture></a>
-  <a href="https://github.com/WenNinghan/HigherOrder-Simplicial-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/simplicial-dark.svg"><img src="./assets/profile/cards/simplicial-light.svg" width="412" alt="HigherOrder-Simplicial-Lab"></picture></a>
-  <a href="https://github.com/WenNinghan/CrossVerify-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/crossverify-dark.svg"><img src="./assets/profile/cards/crossverify-light.svg" width="412" alt="CrossVerify-Bench"></picture></a>
-</p>
+| 项目 | 复测结果 | 实验记录 |
+| --- | --- | --- |
+| [EvoOpt](https://github.com/WenNinghan/EvoOpt-Surrogate-Bench) · 多目标优化 | 模拟水处理，每次 220 次目标函数评估。代理法达到参考超体积的 **98.37%**，调参后的 MOEA/D 为 **93.00%**。20 个留出种子上代理法均领先。 | [调参方案与结果表](https://github.com/WenNinghan/EvoOpt-Surrogate-Bench#held-out-small-budget-comparison) |
+| [HigherOrder](https://github.com/WenNinghan/HigherOrder-Simplicial-Lab) · 拓扑与图学习 | 在三张新双孔网格上，按已知孔位对齐后，二维调和质心分对 **480/480 条合成环路**。同一批轨迹上，Hodge 神经网络平均 **77.50%**。 | [跨网格对照与逐条预测](https://github.com/WenNinghan/HigherOrder-Simplicial-Lab/blob/main/results/mesh_transfer.json) |
+| [CrossVerify](https://github.com/WenNinghan/CrossVerify-Bench) · 模型审稿评测 | 45 道存档题里，审稿既有改对也有改错。换 24 道新题、用同一模型复测，低推理档 **23→24**，高档 **24→24**，两档均无改错。 | [新题、审稿与修订记录](https://github.com/WenNinghan/CrossVerify-Bench#single-model-review-on-24-new-questions) |
 
 ### 🔬 Research · 代表性科研与底层算法
 
