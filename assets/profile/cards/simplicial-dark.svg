@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="412" height="148" viewBox="0 0 440 158">
   <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#141824" stroke="#2e3446" stroke-width="1.25"/>
   <text x="20.0" y="35.5" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">HigherOrder-Simplicial-Lab</text>
-  <rect x="289.0" y="19.5" width="132" height="21.5" rx="6" fill="#271c3c"/>
-  <text x="355.0" y="34.0" text-anchor="middle" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Higher-Order Net</text>
-  <text x="20.0" y="65.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">基于有向单纯复形边界算子与 1-Hodge 拉普拉斯谱拓扑分析，</text>
-  <text x="20.0" y="85.5" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">实现 Helmholtz–Hodge 三正交分解、方向等变单纯神经网络</text>
-  <text x="20.0" y="106.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">（Hodge-SNN）及高阶协同传染的一阶爆炸相变与磁滞仿真。</text>
+  <rect x="285.0" y="19.5" width="136" height="21.5" rx="6" fill="#271c3c"/>
+  <text x="353.0" y="34.0" text-anchor="middle" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Higher-Order Net</text>
+  <text x="20.0" y="65.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">基于有向单纯复形边界算子与 1-Hodge 拉普拉斯谱拓扑，</text>
+  <text x="20.0" y="85.5" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">实现 Helmholtz–Hodge 三正交分解、方向等变单纯网络</text>
+  <text x="20.0" y="106.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">（Hodge-SNN）及高阶协同传染爆炸相变与磁滞仿真。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#2e3446" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
     <tspan fill="#c084fc" font-weight="600">[Hodge Laplacian]</tspan>

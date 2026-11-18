@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="412" height="148" viewBox="0 0 440 158">
   <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.25"/>
   <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">ChemSINDy-CRN</text>
-  <rect x="303.0" y="19.5" width="118" height="21.5" rx="6" fill="#d1fae5"/>
-  <text x="362.0" y="34.0" text-anchor="middle" fill="#047857" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">AI4SCI · SINDy</text>
-  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">面向含噪浓度时序的化学反应网络（CRN）控制方程自动发现；</text>
-  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">融合紧支集弱形式分部积分（Weak-SINDy）、SVD 守恒律提取</text>
-  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">与化学计量 KKT 严格投影，实现机器精度级质量守恒。</text>
+  <rect x="295.0" y="19.5" width="126" height="21.5" rx="6" fill="#d1fae5"/>
+  <text x="358.0" y="34.0" text-anchor="middle" fill="#047857" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">AI4SCI · SINDy</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">面向含噪浓度时序的化学反应网络控制方程自动发现；</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">融合紧支集弱形式分部积分（Weak-SINDy）、SVD 守恒</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">律发现与质量度量 KKT 投影，实现机器精度级守恒。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
     <tspan fill="#6d28d9" font-weight="600">[Weak-Form SINDy]</tspan>
-    <tspan fill="#64748b">  ·  KKT Conservation · Bootstrap UQ</tspan>
+    <tspan fill="#64748b">  ·  KKT Conservation · Bootstrap</tspan>
   </text>
 </svg>
