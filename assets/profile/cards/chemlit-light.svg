@@ -3,12 +3,12 @@
   <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">ChemLit-Kinetics-Miner</text>
   <rect x="317.0" y="19.5" width="104" height="21.5" rx="6" fill="#d1fae5"/>
   <text x="369.0" y="34.0" text-anchor="middle" fill="#047857" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">AI4Sci · MCP</text>
-  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">环境氧化动力学文献可溯源数据挖掘与物理验真流水线：</text>
-  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">融合 RDKit 分子价态校验、Smoluchowski 扩散极限、pKa</text>
-  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">电离形态方程与双角色交叉复核（F1 97.5%，支持 MCP）。</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">从有噪声的表格和段落中抽取反应速率及其原文位置。</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">48 段构造材料检验单位、分子结构和证据定位；</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">可用 CLI 或 MCP 查看每条记录和对应引文。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
-    <tspan fill="#6d28d9" font-weight="600">[Kinetics Miner MCP]</tspan>
-    <tspan fill="#64748b">  ·  RDKit Audit · F1 97.5%</tspan>
+    <tspan fill="#6d28d9" font-weight="600">[Evidence spans]</tspan>
+    <tspan fill="#64748b">  ·  RDKit · CLI / MCP</tspan>
   </text>
 </svg>

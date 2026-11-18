@@ -2,13 +2,13 @@
   <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.25"/>
   <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">CrossVerify-Bench</text>
   <rect x="268.0" y="19.5" width="153" height="21.5" rx="6" fill="#dbeafe"/>
-  <text x="344.5" y="34.0" text-anchor="middle" fill="#1d4ed8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">5-LLM Live · Harness</text>
-  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">面向 Harness 的异构校验成本收益实测（Qwen/GLM/</text>
-  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">DeepSeek/MiMo/MiniMax，1,000 条真实 API Trace）：</text>
-  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">量化弱审稿误拒空耗，结合 NVP 与差分测试早退省 63.6% Token。</text>
+  <text x="344.5" y="34.0" text-anchor="middle" fill="#1d4ed8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">LLM evaluation</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">逐题核对模型初答、审稿意见与修订结果。</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">45 道存档题可离线回放，另用一个模型在 24 道</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">新题上复测，记录改对、改错与 token 开销。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
-    <tspan fill="#6d28d9" font-weight="600">[Guardrail + DT + NVP]</tspan>
-    <tspan fill="#64748b">  ·  1,000 Traces · -63.6% Tok</tspan>
+    <tspan fill="#6d28d9" font-weight="600">[Paired decisions]</tspan>
+    <tspan fill="#64748b">  ·  Exact grading · Replay</tspan>
   </text>
 </svg>

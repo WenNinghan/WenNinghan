@@ -14,13 +14,19 @@
   <a href="https://github.com/AIAADC"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/pills/aiaadc-dark.svg"><img src="./assets/profile/pills/aiaadc-light.svg" width="162" alt="HUST AIAADC"></picture></a>
 </p>
 
+### 重点实验 · 可复现的项目
+
+<p align="center">
+  <a href="https://github.com/WenNinghan/EvoOpt-Surrogate-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/evoopt-dark.svg"><img src="./assets/profile/cards/evoopt-light.svg" width="412" alt="EvoOpt-Surrogate-Bench"></picture></a>
+  <a href="https://github.com/WenNinghan/HigherOrder-Simplicial-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/simplicial-dark.svg"><img src="./assets/profile/cards/simplicial-light.svg" width="412" alt="HigherOrder-Simplicial-Lab"></picture></a>
+  <a href="https://github.com/WenNinghan/CrossVerify-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/crossverify-dark.svg"><img src="./assets/profile/cards/crossverify-light.svg" width="412" alt="CrossVerify-Bench"></picture></a>
+</p>
+
 ### 🔬 Research · 代表性科研与底层算法
 
 <p align="center">
   <a href="https://github.com/WenNinghan/DECAT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/decat-dark.svg"><img src="./assets/profile/cards/decat-light.svg" width="412" alt="DECAT"></picture></a>
   <a href="https://github.com/WenNinghan/NetControl-Pinning-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/netcontrol-dark.svg"><img src="./assets/profile/cards/netcontrol-light.svg" width="412" alt="NetControl-Pinning-Lab"></picture></a>
-  <a href="https://github.com/WenNinghan/ChemSINDy-CRN"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chemsindy-dark.svg"><img src="./assets/profile/cards/chemsindy-light.svg" width="412" alt="ChemSINDy-CRN"></picture></a>
-  <a href="https://github.com/WenNinghan/HigherOrder-Simplicial-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/simplicial-dark.svg"><img src="./assets/profile/cards/simplicial-light.svg" width="412" alt="HigherOrder-Simplicial-Lab"></picture></a>
   <a href="https://github.com/WenNinghan/HEOA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/heoa-dark.svg"><img src="./assets/profile/cards/heoa-light.svg" width="412" alt="HEOA & RHEOA"></picture></a>
   <a href="https://github.com/WenNinghan/Deep-Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/deeplearning-dark.svg"><img src="./assets/profile/cards/deeplearning-light.svg" width="412" alt="Deep-Learning"></picture></a>
 </p>
@@ -31,7 +37,6 @@
 
 <p align="center">
   <a href="https://github.com/WenNinghan/OmniHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/omniharness-dark.svg"><img src="./assets/profile/cards/omniharness-light.svg" width="412" alt="OmniHarness"></picture></a>
-  <a href="https://github.com/WenNinghan/CrossVerify-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/crossverify-dark.svg"><img src="./assets/profile/cards/crossverify-light.svg" width="412" alt="CrossVerify-Bench"></picture></a>
   <a href="https://github.com/WenNinghan/ChemLit-Kinetics-Miner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chemlit-dark.svg"><img src="./assets/profile/cards/chemlit-light.svg" width="412" alt="ChemLit-Kinetics-Miner"></picture></a>
   <a href="https://github.com/WenNinghan/shiye"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/shiye-dark.svg"><img src="./assets/profile/cards/shiye-light.svg" width="412" alt="识页 Shiye"></picture></a>
   <a href="https://github.com/WenNinghan/local-chat-insights"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/chatinsights-dark.svg"><img src="./assets/profile/cards/chatinsights-light.svg" width="412" alt="群迹 Local Chat Insights"></picture></a>
