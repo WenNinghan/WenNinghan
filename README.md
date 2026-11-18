@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://github.com/WenNinghan/DECAT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/decat-dark.svg"><img src="./assets/profile/cards/decat-light.svg" width="412" alt="DECAT"></picture></a>
-  <a href="https://github.com/WenNinghan/NetControl-Pinning-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/netcontrol-dark.svg"><img src="./assets/profile/cards/netcontrol-light.svg" width="412" alt="NetControl-Pinning-Lab"></picture></a>
   <a href="https://github.com/WenNinghan/EvoOpt-Surrogate-Bench"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/evoopt-dark.svg"><img src="./assets/profile/cards/evoopt-light.svg" width="412" alt="EvoOpt-Surrogate-Bench"></picture></a>
   <a href="https://github.com/WenNinghan/HigherOrder-Simplicial-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/simplicial-dark.svg"><img src="./assets/profile/cards/simplicial-light.svg" width="412" alt="HigherOrder-Simplicial-Lab"></picture></a>
+  <a href="https://github.com/WenNinghan/NetControl-Pinning-Lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/netcontrol-dark.svg"><img src="./assets/profile/cards/netcontrol-light.svg" width="412" alt="NetControl-Pinning-Lab"></picture></a>
   <a href="https://github.com/WenNinghan/HEOA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/heoa-dark.svg"><img src="./assets/profile/cards/heoa-light.svg" width="412" alt="HEOA & RHEOA"></picture></a>
   <a href="https://github.com/WenNinghan/Deep-Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cards/deeplearning-dark.svg"><img src="./assets/profile/cards/deeplearning-light.svg" width="412" alt="Deep-Learning"></picture></a>
 </p>
