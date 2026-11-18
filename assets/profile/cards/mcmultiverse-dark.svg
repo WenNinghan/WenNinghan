@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="148" viewBox="0 0 440 158">
+  <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#141824" stroke="#2e3446" stroke-width="1.25"/>
+  <text x="20.0" y="35.5" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">麦门宇宙 McMultiverse</text>
+  <rect x="296.0" y="19.5" width="125" height="21.5" rx="6" fill="#2c2416"/>
+  <text x="358.5" y="34.0" text-anchor="middle" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Interactive Fun</text>
+  <text x="20.0" y="65.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">“一张订单，三种命运”——基于真实菜单与报价查询构建的</text>
+  <text x="20.0" y="85.5" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">零依赖静态互动创意小游戏，串联盲选、猜价挑战与平行</text>
+  <text x="20.0" y="106.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">人生 A/B 趣味取舍体验。</text>
+  <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#2e3446" stroke-width="0.85" stroke-opacity="0.75"/>
+  <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
+    <tspan fill="#c084fc" font-weight="600">[Zero-Dep Web Game]</tspan>
+    <tspan fill="#8b949e">  ·  Blind Pick · Price Guess</tspan>
+  </text>
+</svg>

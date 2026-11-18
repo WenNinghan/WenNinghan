@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="148" viewBox="0 0 440 158">
+  <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.25"/>
+  <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">月薪喵 &amp; 呆猫八条 · Codex Pets</text>
+  <rect x="317.0" y="19.5" width="104" height="21.5" rx="6" fill="#ede9fe"/>
+  <text x="369.0" y="34.0" text-anchor="middle" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Desktop Pets</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">两款陪伴写代码的原创 Codex 桌面宠物包（像素风月薪喵</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">与手绘贴纸风呆猫八条），内置挥手、跳跃、小憩等多状态</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">帧动画预览、一键安装包与角色制作手记。</text>
+  <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
+  <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
+    <tspan fill="#6d28d9" font-weight="600">[月薪喵 Yuexinmiao]</tspan>
+    <tspan fill="#64748b">  ·  呆猫八条 Daimaobatiao</tspan>
+  </text>
+</svg>

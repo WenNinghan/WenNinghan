@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148">
-  <rect x="0.75" y="0.75" width="418.5" height="146.5" rx="11" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.2"/>
-  <text x="18" y="31" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="15" font-weight="700">NetControl-Pinning-Lab</text>
-  <rect x="276" y="15.5" width="126" height="21" rx="5.5" fill="#ede9fe"/>
-  <text x="339.0" y="29.8" text-anchor="middle" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600">Complex Networks</text>
-  <text x="18" y="60" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">复杂网络结构可控性（Liu-Barabási 最大二部匹配驱动节点）、</text>
-  <text x="18" y="80" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">子模控制格拉姆（Gramian）执行器优选，以及面向非线性同步</text>
-  <text x="18" y="100" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei UI', 'PingFang SC', sans-serif" font-size="12.5">与级联镇定的可微图神经网络牵制控制（Pinning Control）。</text>
-  <line x1="18" y1="115" x2="402" y2="115" stroke="#dfdcea" stroke-width="0.8" stroke-opacity="0.7"/>
-  <text x="18" y="133.5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Microsoft YaHei UI', monospace" font-size="11.2">
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="148" viewBox="0 0 440 158">
+  <rect x="3.0" y="4.5" width="434.0" height="149.0" rx="12" fill="#faf9fe" stroke="#dfdcea" stroke-width="1.25"/>
+  <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">NetControl-Pinning-Lab</text>
+  <rect x="289.0" y="19.5" width="132" height="21.5" rx="6" fill="#ede9fe"/>
+  <text x="355.0" y="34.0" text-anchor="middle" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Complex Networks</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">复杂网络结构可控性（Liu-Barabási 最大二部匹配）、</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">子模控制格拉姆（Gramian）执行器优选，以及面向非线性</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">同步镇定的可微图神经网络牵制控制（Pinning Control）。</text>
+  <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
+  <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
     <tspan fill="#6d28d9" font-weight="600">[Structural Control]</tspan>
-    <tspan fill="#64748b">  ·  Submodular Gramian · Diff-GNN</tspan>
+    <tspan fill="#64748b">  ·  Gramian · Diff-GNN</tspan>
   </text>
 </svg>
