@@ -4,8 +4,8 @@
   <rect x="317.0" y="19.5" width="104" height="21.5" rx="6" fill="#132a26"/>
   <text x="369.0" y="34.0" text-anchor="middle" fill="#34d399" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">AI4Sci · MCP</text>
   <text x="20.0" y="65.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">从有噪声的表格和段落中抽取反应速率及其原文位置。</text>
-  <text x="20.0" y="85.5" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">48 段构造材料检验单位、分子结构和证据定位；</text>
-  <text x="20.0" y="106.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">可用 CLI 或 MCP 查看每条记录和对应引文。</text>
+  <text x="20.0" y="85.5" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">含 48 段构造测试与 16 段零词表真实文献外推集，</text>
+  <text x="20.0" y="106.0" fill="#d8dee9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">验证三大模型家族与物理审计，支持 CLI 与 MCP。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#2e3446" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
     <tspan fill="#c084fc" font-weight="600">[Evidence spans]</tspan>
