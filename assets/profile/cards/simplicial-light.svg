@@ -3,9 +3,9 @@
   <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">HigherOrder-Simplicial-Lab</text>
   <rect x="285.0" y="19.5" width="136" height="21.5" rx="6" fill="#ede9fe"/>
   <text x="353.0" y="34.0" text-anchor="middle" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Higher-order networks</text>
-  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">把同一套环路分类器和缺边补全模型迁到新网格。</text>
-  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">检验双孔同调分类，并在满秩局部多涡旋非线性流</text>
-  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">上对比 HodgeSNN、各向同性边卷积与低阶线性基线。</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">评估跨网格环路绕数分类与缺边散度—旋度流恢复。</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">对照调和质心、同构等参绑定 L1 网络与解耦 Hodge</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">卷积在各向同性流及各向异性局部涡旋上的适用边界。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
     <tspan fill="#6d28d9" font-weight="600">[Simplicial learning]</tspan>

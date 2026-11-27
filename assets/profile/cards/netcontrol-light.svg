@@ -3,12 +3,12 @@
   <text x="20.0" y="35.5" fill="#6d28d9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="15.2" font-weight="700">NetControl-Pinning-Lab</text>
   <rect x="289.0" y="19.5" width="132" height="21.5" rx="6" fill="#ede9fe"/>
   <text x="355.0" y="34.0" text-anchor="middle" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="10.8" font-weight="600">Complex Networks</text>
-  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">复杂网络结构可控性（Liu-Barabási 最大二部匹配）、</text>
-  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">子模控制格拉姆（Gramian）执行器优选，以及面向非线性</text>
-  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">同步镇定的可微图神经网络牵制控制（Pinning Control）。</text>
+  <text x="20.0" y="65.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">区分专用位置与共享输入通道，校核结构可控秩。</text>
+  <text x="20.0" y="85.5" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">比较等终点误差约束下的格拉姆选点能耗，并在 90 个</text>
+  <text x="20.0" y="106.0" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei UI', 'Segoe UI', sans-serif" font-size="12.6">留出初态上对照单跳 GNN、局部与全状态线性反馈。</text>
   <line x1="20.0" y1="121" x2="420.0" y2="121" stroke="#dfdcea" stroke-width="0.85" stroke-opacity="0.75"/>
   <text x="20.0" y="140.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei UI', monospace" font-size="11.3">
-    <tspan fill="#6d28d9" font-weight="600">[Structural Control]</tspan>
-    <tspan fill="#64748b">  ·  Gramian · Diff-GNN</tspan>
+    <tspan fill="#6d28d9" font-weight="600">[Pinning &amp; Gramian]</tspan>
+    <tspan fill="#64748b">  ·  PBH rank · Holdout replay</tspan>
   </text>
 </svg>
